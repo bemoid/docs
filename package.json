@@ -1,0 +1,9 @@
+{
+  "name": "@bemoid/guide",
+  "version": "1.0.0",
+  "description": "A guide for Bemoid CSS framework.",
+  "keywords": [
+    "bemoid",
+    "guide"
+  ]
+}
